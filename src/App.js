@@ -1,10 +1,14 @@
+import { Route, Routes } from 'react-router-dom';
 import './App.css';
 import Banner from './Components/Banner/Banner';
 
 function App() {
   return (
     <div >
-      <Banner></Banner>
+      <Routes>
+        <Route path='/' element={<Banner></Banner>}> </Route>
+
+      </Routes>
     </div>
   );
 }

@@ -7,7 +7,7 @@ const Banner = () => {
 
 
     return (
-        <div>
+        <div >
             <section className='banner m-0 '>
                 <div className=' content-box'>
                     <div className='navBar'>
@@ -23,7 +23,7 @@ const Banner = () => {
                 </div>
                 <Form></Form>
             </section>
-            {/* <CardSection></CardSection> */}
+            <CardSection></CardSection>
         </div>
     );
 };

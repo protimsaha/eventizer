@@ -3,18 +3,17 @@ import { BsLinkedin, BsTwitter } from 'react-icons/bs';
 import { Link } from 'react-router-dom';
 
 const ReviewCard = ({ developer }) => {
-    // console.log(developer.name, developer.background, developer.profile)
     const { name, designation, profile, background, linkedin, twitter } = developer
     return (
         <div className=" rounded lg:max-w-lg  bg-base-100 col-span-4 shadow-xl h-72">
             <div className=" ">
-                <img className='max-h-28 rounded w-full' src={background} alt="" />
+                <img className='max-h-28 rounded w-full' src={background} alt="background" />
 
 
                 <div className='flex flex-col items-start pl-10 '>
                     <div className="avatar mt-[-33px]">
                         <div className="w-16 rounded-full ring ring-violet-600 ring-offset-base-100 ring-offset-2 mb-2">
-                            <img className='' alt='' src={profile} />
+                            <img alt='profile' src={profile} />
                         </div>
                     </div>
                     <div className='ml-[-15px]'>

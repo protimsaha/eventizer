@@ -5,7 +5,7 @@ import './Form.css'
 const Form = () => {
     return (
         <section className='md:grid md:grid-cols-12 content-box gap-6 flex flex-col'>
-            <div className=' col-span-6 mt-24 flex'>
+            <div className=' col-span-6 mt-36 flex'>
                 <h1 className='text-5xl font-bold text-white text-start '>Ship your package anywhere. Simple, easy and fast.</h1>
             </div>
             <div className='col-span-6 p-6 bg-white rounded-lg md:mt-24 mt-16  h-72'>
