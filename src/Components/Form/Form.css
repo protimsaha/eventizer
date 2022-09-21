@@ -1,0 +1,19 @@
+.form-text {
+    font-size: 50px;
+    font-weight: 700;
+    color: white;
+    font-family: 'Inter', sans-serif;
+}
+
+.form-title {
+    font-size: 18px;
+    font-weight: 700;
+    font-family: 'Inter', sans-serif;
+}
+
+.form-input {
+    height: 50px;
+    /* width: 278px; */
+    border-radius: 10px;
+    background-color: rgb(237, 236, 236);
+}
