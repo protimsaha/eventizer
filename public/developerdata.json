@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "Sajid Khan",
+        "designation": "UI/UX designer",
+        "profile": "https://i.ibb.co/wCvTF0X/teammate.png",
+        "background": "https://i.ibb.co/RvKn79Q/background.jpg",
+        "linkedin": "https://www.linkedin.com/in/felipemotabr/",
+        "twitter": "https://twitter.com/felipemotabr"
+    },
+    {
+        "id": 2,
+        "name": "Sajid Khan",
+        "designation": "UI/UX designer",
+        "profile": "https://i.ibb.co/wCvTF0X/teammate.png",
+        "background": "https://i.ibb.co/RvKn79Q/background.jpg",
+        "linkedin": "https://www.linkedin.com/in/felipemotabr/",
+        "twitter": "https://twitter.com/felipemotabr"
+    },
+    {
+        "id": 3,
+        "name": "Sajid Khan",
+        "designation": "UI/UX designer",
+        "profile": "https://i.ibb.co/wCvTF0X/teammate.png",
+        "background": "https://i.ibb.co/RvKn79Q/background.jpg",
+        "linkedin": "https://www.linkedin.com/in/felipemotabr/",
+        "twitter": "https://twitter.com/felipemotabr"
+    }
+]
