@@ -1,9 +1,12 @@
-.banner {
-    background-image: url(../../assets/images/db34d39e032f1ef6f1343cc72caa2c7a.png);
-    min-height: 100vh;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: 0px -130px;
+@media screen and (min-width:426px) {
+
+    .banner {
+        background-image: url(../../assets/images/db34d39e032f1ef6f1343cc72caa2c7a.png);
+        min-height: 100vh;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 0px -130px;
+    }
 
 }
 

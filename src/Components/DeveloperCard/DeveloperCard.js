@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 const ReviewCard = ({ developer }) => {
     const { name, designation, profile, background, linkedin, twitter } = developer
     return (
-        <div className=" rounded lg:max-w-lg  bg-base-100 col-span-4 shadow-xl h-72">
+        <div className=" rounded lg:max-w-lg max-w-sm bg-base-100 col-span-12 md:col-span-4 shadow-xl h-72">
             <div className=" ">
                 <img className='max-h-28 rounded w-full' src={background} alt="background" />
 
